@@ -1,0 +1,1212 @@
+/* Home */
+
+body{
+    height: 100%;
+    margin: 0;
+}
+.bg{
+    /* The image used */
+    background-image: url("background.jpg");
+
+    /* Full height */
+    height: 1010px;
+    width: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container-fluid{
+    width: 100%;
+    height: 100%;
+}
+.header{
+    height: 8%;
+    opacity: 0.8;
+}
+.text-place{
+    display: flex;
+    justify-content: center;
+    height: 40%;
+    font-family: 'Philosopher', sans-serif;
+}
+.logo-place{
+    display: flex;
+    justify-content: center;
+    height: 10%;
+}
+.button-place{
+    height: 10%;
+    opacity: 0.9;
+    float: left;
+}
+.btn-dark{
+    height: 100%;
+    width: 20%;
+}
+.btn-light{
+    height: 100%;
+    width: 20%;
+}
+/* Home-End */
+
+
+/*FOOTER*/
+.footer_bg{
+    width: 100%;
+    height: 300px;
+}
+    .footer_row{
+        height: 100%;
+        width: 100%;
+    }
+        .footer_container{
+            height: 100%;
+        }
+            .first_column{
+                height: 100%;
+            }
+                .a-row{
+                    height: 10%;
+                    margin-top: 3%;
+                }
+                .b-row{
+                    margin-top: 2%;
+                    height: 8%;
+                    background-image: url("logo4.png");
+                    /* Center and scale the image nicely */
+                    background-position: center;
+                    background-repeat: no-repeat;
+                    background-size: contain;
+                }
+                .c-row{
+                    height: 72%;
+                }
+                    .lamb{
+                        font-size: 23px;
+                    }
+
+            .second_column{
+                height: 100%;
+            }
+                .a-row2{
+                    margin-top: 3%;
+                    height: 10%;
+                }
+                .b-row2{
+                    margin-top: 2%;
+                    height: 8%;
+                    background-image: url("logo4.png");
+                    /* Center and scale the image nicely */
+                    background-position: center;
+                    background-repeat: no-repeat;
+                    background-size: contain;
+                }
+                .c-row2{
+                    height: 40%;
+                }
+                    .pm{
+                        font-size: 23px;
+                    }
+                .d-row2{
+                    height: 20%;
+                    background-image: url("loogo2.png");
+                    /* Center and scale the image nicely */
+                    background-position: center;
+                    background-repeat: no-repeat;
+                    background-size: contain;
+                }
+
+            .third_column {
+                height: 100%;
+            }
+                .a-row3{
+                    margin-top: 3%;
+                    height: 10%;
+                }
+                .b-row3{
+                    margin-top: 2%;
+                    height: 8%;
+                    background-image: url("logo4.png");
+                    /* Center and scale the image nicely */
+                    background-position: center;
+                    background-repeat: no-repeat;
+                    background-size: contain;
+                }
+                .c-row3{
+                    height: 40%;
+                }
+                    .loc{
+                        font-size: 23px;
+                    }
+                .d-row3{
+                    height: 20%;
+                    background-image: url("loogo3.png");
+                    /* Center and scale the image nicely */
+                    background-position: center;
+                    background-repeat: no-repeat;
+                    background-size: contain;
+                }
+/*FOOTER-END*/
+
+
+/* About */
+.bg2{
+    /* The image used */
+    background-image: url("background2.jpg");
+
+    /* Full height */
+    height: 1010px;
+    width: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container-fluid2{
+    height: 100%;
+}
+.right{
+    height: 100%;
+}
+.left{
+    height: 100%;
+}
+.div1{
+    height: 17%;
+}
+.div2{
+    height: 8%;
+    background-image: url("logo4.png");
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.div3{
+    height: 30%;
+}
+.div4{
+    height: 25%;
+}
+.insider{
+    height: 100%;
+    background-image: url("logo2.png");
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+
+}
+.namee2{
+    font-size: 60px;
+}
+.introduction{
+    font-size: 30px;
+}
+.div4\.1{
+    height: 100%;
+    background-image: url("logo3.png");
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+/* ABOUT-END */
+
+
+
+
+
+/* INGREDIENTS*/
+.bg3{
+    padding-top: 110px;
+    /* The image used */
+    background-image: url("background3.jpg");
+
+    /* Full height */
+    height: 1000px;
+    width: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container-fluid3{
+    height: 85%;
+    opacity: 0.6;
+}
+.roww{
+    height: 100%;
+    margin-right: 13%;
+}
+.main_col{
+    background-color: black;
+    height: 100%;
+}
+.roww1{
+    height: 18%;
+    padding-top: 53px;
+}
+.roww2{
+    height: 8%;
+    background-image: url("logo4.png");
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.roww3{
+    height: 35%;
+}
+.roww4{
+    margin-top: 50px;
+    height: 25%;
+    background-image: url("logo5.png");
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.namee3{
+    font-family: 'Philosopher', sans-serif;
+    font-size: 63px;
+}
+.introduction2{
+    font-size: 30px;
+}
+/* INGREDIENTS-END*/
+
+/*MENU*/
+.bg4{
+    /* The image used */
+    background-image: url("background4.jpg");
+
+    /* Full height */
+    height: 1000px;
+    width: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+    .container-fluid4{
+        height: 100%;
+    }
+        .rrow{
+            height: 100%;
+            width: 100%;
+            opacity: 0.6;
+        }
+            .left1{
+                height: 100%;
+            }
+                    .top-left{
+                        height: 43%;
+                        margin-top: 13%;
+                        margin-bottom: 2%;
+                    }
+                            .rrrow{
+                                height: 20%;
+                            }
+                            .one{
+
+                            }
+                                    .appetisers{
+                                        margin-top: 8px;
+                                        font-size: 50px;
+                                        font-family: 'Philosopher', sans-serif;
+                                    }
+                                    .description{
+                                        margin-top: 8px;
+                                        margin-left: 14px;
+                                        font-size: 19px;
+                                        font-family: 'Philosopher', sans-serif;
+                                    }
+                            .two{
+                                height: 15%;
+                                background-image: url("logo4.png");
+                                /* Center and scale the image nicely */
+                                background-position: center;
+                                background-repeat: no-repeat;
+                                background-size: contain;
+                            }
+                            .three{
+                            }
+                                    .rrrow3\.1{
+                                        height: 50%;
+                                    }
+                                        .eilute{
+                                            height: 100%;
+                                            font-family: 'Philosopher', sans-serif;
+                                        }
+                                        .a{
+                                            font-size: 23px;
+                                            margin-top: 8px;
+                                        }
+                                    .rrrow3\.2{
+                                        height: 50%;
+                                    }
+                            .four{
+                            }
+                                    .rrrow4\.1{
+                                        height: 50%;
+                                    }
+                                    .rrrow4\.2{
+                                        height: 50%;
+                                    }
+                            .five{
+                            }
+                                    .rrrow5\.1{
+                                        height: 50%;
+                                    }
+                                    .rrrow5\.2{
+                                        height: 50%;
+                                    }
+                    .bottom-left{
+                        height: 43%;
+                    }
+                            .rrrow_{
+                                height: 20%;
+                            }
+                            .one_{
+
+                            }
+                            .two_{
+                                height: 15%;
+                                background-image: url("logo4.png");
+                                /* Center and scale the image nicely */
+                                background-position: center;
+                                background-repeat: no-repeat;
+                                background-size: contain;
+
+                            }
+                            .three_{
+                            }
+                                    .rrrow_3\.1{
+                                        height: 50%;
+                                    }
+                                    .b{
+                                        font-size: 23px;
+                                        margin-top: 8px;
+                                    }
+                                    .rrrow_3\.2{
+                                        height: 50%;
+                                    }
+                            .four_{
+                            }
+                                    .rrrow_4\.1{
+                                        height: 50%;
+                                    }
+                                    .rrrow_4\.2{
+                                        height: 50%;
+                                    }
+                            .five_{
+                            }
+                                    .rrrow_5\.1{
+                                        height: 50%;
+                                    }
+                                    .rrrow_5\.2{
+                                        height: 50%;
+                                    }
+            .right1{
+                height: 100%;
+            }
+                    .top-right{
+                        height: 33%;
+                        margin-top: 13%;
+                        margin-bottom: 2%;
+                    }
+                            .one__{
+                               height: 25%;
+                            }
+                            .two__{
+                                height: 20%;
+                                background-image: url("logo4.png");
+                                /* Center and scale the image nicely */
+                                background-position: center;
+                                background-repeat: no-repeat;
+                                background-size: contain;
+                            }
+                            .three__{
+                                height: 25%;
+                            }
+                                    .rowww3\.1{
+                                        height: 50%;
+                                    }
+                                    .c{
+                                        font-size: 23px;
+                                        margin-top: 8px;
+                                    }
+                                    .rowww3\.2{
+                                        height: 50%;
+                                    }
+                            .four__{
+                                height: 25%;
+                            }
+                                    .rowww4\.1{
+                                       height: 50%;
+                                    }
+                                    .rowww4\.2{
+                                        height: 50%;
+                                    }
+                    .bottom-right{
+                        height: 53%;
+                    }
+                            .one___{
+
+                            }
+                            .two___{
+                                height: 12%;
+                                background-image: url("logo4.png");
+                                /* Center and scale the image nicely */
+                                background-position: center;
+                                background-repeat: no-repeat;
+                                background-size: contain;
+                            }
+                            .three___{
+                                height: 16.5%;
+                            }
+                                    .rooow3\.1{
+                                       height: 50%;
+                                    }
+                                    .d{
+                                        font-size: 23px;
+                                        margin-top: 8px;
+                                    }
+                                    .rooow3\.2{
+                                       height: 50%;
+                                    }
+                            .four___{
+                                height: 16.5%;
+                            }
+                                    .rooow4\.1{
+                                        height: 50%;
+                                    }
+                                    .rooow4\.2{
+                                        height: 50%;
+                                    }
+                            .five___{
+                                height: 16.5%;
+                            }
+                                    .rooow5\.1{
+                                        height: 50%;
+                                    }
+                                    .rooow5\.2{
+                                        height: 50%;
+                                    }
+                            .six___{
+                                height: 16.5%;
+                            }
+                                    .rooow6\.1{
+                                        height: 50%;
+                                    }
+                                    .rooow6\.2{
+                                        height: 50%;
+                                    }
+
+    /*MENU-END*/
+
+/*REVIEWS*/
+.bg5{
+    padding-top: 110px;
+    /* The image used */
+    background-image: url("background5.jpg");
+
+    /* Full height */
+    height: 1000px;
+    width: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container-fluid5{
+    width: 100%;
+    height: 85%;
+
+}
+.roow{
+    height: 100%;
+    width: 100%;
+    opacity: 0.6;
+}
+.roow1{
+    margin-top: 8%;
+    height: 10%;
+}
+.roow2{
+    margin-top: 2%;
+    height: 8%;
+    background-image: url("logo4.png");
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.roow3{
+    margin-top: 2%;
+    height: 57%;
+}
+.roow4{
+    height: 8%;
+
+}
+.main_col2{
+    height: 100%;
+    background-color: black;
+}
+.namee4{
+    font-family: 'Philosopher', sans-serif;
+    font-size: 63px;
+}
+.introduction3{
+    font-size: 35px;
+    font-family: 'Philosopher', sans-serif;
+}
+/*REVIEWS-END*/
+
+
+/*RESERVATIONS*/
+.bg6{
+    padding-top: 110px;
+    /* The image used */
+    background-image: url("background2.jpg");
+
+    /* Full height */
+    height: 1000px;
+    width: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container-fluid6{
+    height: 100%;
+}
+    .lainas{
+        height: 85%;
+        width: 100%;
+    }
+        .left2{
+            height: 100%;
+        }
+            .lainas1{
+                height: 100%;
+                width: 100%;
+            }
+                .left_left2{
+                    height: 100%;
+                    /* The image used */
+                    background-image: url("picture1.jpg");
+                    /* Center and scale the image nicely */
+                    background-position: center;
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                }
+                .left_right2{
+                    height: 100%;
+                    /* The image used */
+                    background-image: url("picture2.jpg");
+                    /* Center and scale the image nicely */
+                    background-position: center;
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                }
+        .right2{
+            height: 100%;
+            font-family: 'Philosopher', sans-serif;
+        }
+            .row1{
+                height: 12%;
+            }
+                .food{
+                    font-size: 60px;
+                }
+            .row2{
+                height: 8%;
+                background-image: url("logo4.png");
+                /* Center and scale the image nicely */
+                background-position: center;
+                background-repeat: no-repeat;
+                background-size: contain;
+            }
+            .row3{
+                height: 14%;
+            }
+                .tekstas{
+                    font-size: 23px;
+                }
+                .tekstas2{
+                    font-size: 23px;
+                }
+            .row4{
+                height: 14%;
+            }
+            .row5{
+                height: 14%;
+            }
+                .lft{
+                    height: 100%;
+                }
+                    .form-group{
+                        font-size: 20px;
+                    }
+                    #formGroupExampleInput{
+                        font-size: 20px;
+                    }
+                    #formGroupExampleInput2{
+                        font-size: 20px;
+                    }
+                    #formGroupExampleInput3{
+                        font-size: 20px;
+                    }
+                    #inputState{
+                        font-size: 20px;
+                    }
+                .rght{
+                    height: 100%;
+                }
+            .row6{
+                height: 14%;
+            }
+                .lft1{
+                    height: 100%;
+                }
+                .rght1{
+                    height: 100%;
+                }
+            .row7{
+                height: 9%;
+            }
+/*RESERVATIONS-END*/
+
+
+@media screen and (min-width: 1024px){
+    .namee{
+        font-size: 100px;
+    }
+    .logo-place{
+        height: 20%;
+    }
+    .button-place{
+        display: flex;
+        justify-content: center;
+    }
+    .btn-dark{
+        margin-right: 15px;
+    }
+    .btn-light{
+        margin-left: 15px;
+    }
+}
+.putin{
+    font-size: 40px;
+    height: 100%;
+    background-image: url("logo.png");
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+/*INGREDIENTS*/
+.div1{
+    margin-bottom: 35px;
+
+}
+.div4{
+    margin-top: 80px;
+}
+/*INGREDIENTS-END*/
+
+
+/*REVIEWS*/
+.row2{
+    margin-top: 10%;
+}
+.row4{
+    margin-top: 10%;
+    margin-bottom: -1%;
+}
+/*REVIEWS-END*/
+
+@media screen and (max-width: 1024px) {
+    .introduction2{
+        font-size: 23px;
+    }
+    .namee3{
+        font-size: 50px;
+    }
+
+    .roww4{
+        margin-top: 60px;
+    }
+
+    /*REVIEWS*/
+    .introduction3{
+        font-size: 30px;
+    }
+    /*REVIEWS-END*/
+
+
+    /*MENU*/
+    .description{
+        font-size: 13px;
+    }
+    .a{
+       font-size: 20px;
+    }
+    .b{
+        font-size: 20px;
+    }
+    .c{
+        font-size: 20px;
+    }
+    .d{
+        font-size: 20px;
+    }
+    /*MENU-END*/
+
+
+    /*RESERVATIONS*/
+    .food{
+        font-size: 45px;
+    }
+    .tekstas{
+        font-size: 20px;
+    }
+    .tekstas2{
+        font-size: 20px;
+    }
+    .row2{
+        height: 6%;
+        margin-top: 5%;
+    }
+    .row4{
+        margin-top: 20%;
+        margin-bottom: 10%;
+    }
+    #formGroupExampleInput{
+        font-size: 17px;
+    }
+    #formGroupExampleInput2{
+        font-size: 17px;
+    }
+    #formGroupExampleInput3{
+        font-size: 17px;
+    }
+    #inputState{
+        font-size: 17px;
+    }
+    .row7{
+        height: 7%;
+    }
+    /*RESERVATIONS-END*/
+
+
+    /*FOOTER*/
+    .footer_bg{
+        height: 300px;
+    }
+        .about-us{
+            font-size: 23px;
+        }
+        .opening-hours{
+            font-size: 23px;
+        }
+        .location{
+            font-size: 23px;
+        }
+        .lamb{
+            font-size: 16px;
+        }
+        .pm{
+            font-size: 16px;
+        }
+        .loc{
+            font-size: 16px;
+        }
+        .d-row2{
+            height: 10%;
+        }
+        .d-row3{
+            height: 10%;
+        }
+
+    /*FOOTER-END*/
+}
+
+@media screen and (max-width: 1023px){
+    .bg{
+        max-height: 923px;
+    }
+    .container-fluid{
+        height: 100%;
+    }
+    .namee{
+        font-size: 85px;
+    }
+    .text-place{
+        height: 30%;
+        margin-bottom: 85px;
+    }
+    .button-place{
+        height: 20%;
+        margin-top: 20px;
+        display: flex;
+        flex-direction: column;
+    }
+    .logo-place{
+        margin-bottom: 60px;
+        height: 10%;
+    }
+    .btn-dark{
+        width: 100%;
+        height: 47%;
+    }
+    .btn-light{
+        width: 100%;
+        height: 47%;
+        margin-left: 0;
+    }
+    .putin{
+        font-size: 20px;
+        height: 100%;
+        background-image: url("logo.png");
+        /* Center and scale the image nicely */
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: contain;
+    }
+    .right{
+        display: none;
+    }
+    .div3{
+        margin-top: 20px;
+    }
+    .div4{
+        margin-top: 20px;
+    }
+
+    /*INGREDIENTS*/
+    .bg3{
+        padding: 0;
+        height: 700px;
+    }
+    .container-fluid3{
+        height: 100%;
+    }
+    .main_col{
+        margin-right: -7%;
+    }
+    .introduction2{
+        font-size: 25px;
+        padding-top: 40px;
+    }
+
+    /*MENU*/
+    .description{
+        font-size: 11px;
+    }
+    .a{
+        font-size: 17px;
+    }
+    .b{
+        font-size: 17px;
+    }
+    .c{
+        font-size: 17px;
+    }
+    .d{
+        font-size: 17px;
+    }
+    /*MENU-END*/
+
+
+    /*RESERVATIONS*/
+    .bg6{
+        height: 100%;
+    }
+    .left2{
+        display: none;
+    }
+    .right2{
+        margin-top: -10%;
+        margin-bottom: 5%;
+    }
+    .row4{
+        margin-top: -2%;
+        margin-bottom: -1%;
+    }
+    /*RESERVATIONS-END*/
+
+    /*FOOTER*/
+    .footer_bg{
+        height: 300px;
+    }
+    /*FOOTER-END*/
+}
+
+@media screen and (max-width: 425px){
+    .bg{
+        height: 700px;
+    }
+    .container-fluid{
+        height: 100%;
+    }
+    .namee{
+        font-size: 50px;
+    }
+    .header{
+        height: 8%;
+    }
+    .logo-place{
+        height: 8%;
+        margin-bottom: 60px;
+    }
+    .text-place{
+        height: 40%;
+        margin-bottom: 40px;
+    }
+    .button-place{
+        height: 20%;
+        display: flex;
+        flex-direction: column;
+    }
+    .btn-dark{
+        width: 100%;
+        height: 47%;
+    }
+    .btn-light{
+        width: 100%;
+        height: 47%;
+        margin-left: 0;
+    }
+    .putin{
+        font-size: 40px;
+        height: 100%;
+        background-image: url("logo.png");
+        /* Center and scale the image nicely */
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: contain;
+    }
+    .namee2{
+        font-size: 55px;
+    }
+    .introduction{
+        font-size: 22px;
+    }
+    .div1{
+        margin-bottom: 50px;
+    }
+    .div3{
+        height: 40%;
+    }
+    .div4{
+        margin-top: 40px;
+    }
+    .div4\.1{
+        height: 50%;
+    }
+
+    /*INGREDIENTS*/
+    .bg3{
+        padding: 0;
+        height: 700px;
+    }
+    .container-fluid3{
+        height: 100%;
+    }
+    .introduction2{
+        font-size: 21px;
+        padding-top: 25px;
+    }
+    .roww1{
+        padding-top: 40px;
+    }
+    .namee3{
+        font-size: 41px;
+    }
+    .roww4{
+        margin-top: 80px;
+    }
+    /*INGREDIENTS-END*/
+
+    /*REVIEWS*/
+    .container-fluid5{
+        height: 113%;
+        margin-top: -110px;
+    }
+    .introduction3{
+        font-size: 29px;
+    }
+    .namee4{
+        font-size: 50px;
+    }
+    .roow1{
+        height: 8%;
+    }
+    .roow3{
+        margin-top: 45px;
+    }
+    /*REVIEWS-END*/
+
+
+    /*MENU*/
+    .rrow{
+        display: flex;
+        flex-direction: column;
+    }
+    .left1{
+        margin-top: 25%;
+    }
+    .right1{
+    }
+    .top-left{
+        margin-top: -15%;
+    }
+    .top-right{
+        margin-top: -15%;
+    }
+    .appetisers{
+        margin-top: 1%;
+        font-size: 28px;
+    }
+    .description{
+        margin-top: 4px;
+    }
+    .a{
+        font-size: 15px;
+        margin-top: 1px;
+    }
+    .b{
+        font-size: 15px;
+        margin-top: 1px;
+    }
+    .c{
+        font-size: 15px;
+        margin-top: 1px;
+    }
+    .d{
+        font-size: 15px;
+        margin-top: 1px;
+    }
+    /*MENU-END*/
+
+
+    /*RESERVATIONS*/
+    .row6{
+        flex-wrap: wrap;
+    }
+    .right2{
+        margin-top: -18%;
+        margin-bottom: 5%;
+    }
+    /*RESERVATIONS-END*/
+
+    /*FOOTER*/
+    .footer_bg{
+        height: 900px;
+    }
+        .footer_container{
+            flex-wrap: wrap;
+        }
+            .first_column{
+                height: 30%;
+            }
+            .second_column{
+                height: 30%;
+            }
+            .third_column{
+                height: 30%;
+            }
+    /*FOOTER-END*/
+
+}
+
+@media screen and (max-width: 320px){
+    /*INGREDIENTS*/
+    .bg3{
+        padding: 0;
+        height: 700px;
+    }
+    .container-fluid3{
+        height: 100%;
+    }
+    .introduction2{
+        font-size: 19px;
+        padding-top: 25px;
+    }
+    .roww1{
+        padding-top: 40px;
+    }
+    .namee3{
+        font-size: 40px;
+    }
+    .roww4{
+        margin-top: 80px;
+    }
+    /*INGREDIENTS-END*/
+
+    /*REVIEWS*/
+    .introduction3{
+        font-size: 27px;
+    }
+    .roow2{
+        margin-top: 15%;
+    }
+    .roow3{
+        margin-top: -5%;
+    }
+    .roow4{
+        margin-top: 15%;
+    }
+    /*REVIEWS-END*/
+
+
+    /*MENU*/
+    .left1{
+        margin-top: 50%;
+    }
+    .right1{
+        margin-top: -20%;
+    }
+    .appetisers{
+        margin-top: 1%;
+        font-size: 30px;
+    }
+    .description{
+        margin-top: 4px;
+        font-size: 9px;
+    }
+    .a{
+        font-size: 13px;
+        margin-top: 2px;
+    }
+    .b{
+        font-size: 13px;
+        margin-top: 2px;
+    }
+    .c{
+        font-size: 13px;
+        margin-top: 4px;
+    }
+    .d{
+        font-size: 13px;
+        margin-top: 4px;
+    }
+    /*MENU-END*/
+
+
+    /*RESERVATIONS*/
+
+    /*RERSERVATIONS-END*/
+
+}
